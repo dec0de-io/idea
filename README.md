@@ -1,2 +1,3 @@
-# incept
-Schema File Processor
+# 💡 Idea
+
+See: https://github.com/OSSPhilippines/idea
